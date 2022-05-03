@@ -1,5 +1,8 @@
 Queria saber quale è o seu nome. Se voce tem interesse podemos falar mais sobre o conteudo de todas as coisas quem sao relacionadas ao crescimento economico.
 
 Now it's time to write in english. 
+<<<<<<< HEAD
 
 I hope that git will be useful since the learning curve has an high slope. 
+=======
+>>>>>>> 84a5785a529faabf9493237d9facbbce51764a62
